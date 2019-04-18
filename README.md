@@ -1,0 +1,2 @@
+# LeetCodeGo
+LeetCode go language
