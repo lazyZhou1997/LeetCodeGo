@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	var input = -123
+	var input = 1563847412
 	result := reverse(input)
 
 	fmt.Println(result)
